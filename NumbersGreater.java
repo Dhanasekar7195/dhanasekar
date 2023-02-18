@@ -5,6 +5,7 @@ public class NumbersGreater {
 		int a = 3;
 		int b = 5;
 		int c = 1;
+		int d = 10;
 		if(a>b&&a>c) {
 	System.out.println(a);
 		}
